@@ -10,3 +10,8 @@
 // git commit -m "first commit"
 // git remote add origin git@github.com:babybank/auth_2.git
 // git push -u origin master
+
+// Heroku
+// heroku help
+// heroku login
+// heroku keys:add
